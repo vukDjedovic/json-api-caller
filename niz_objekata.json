@@ -1,0 +1,32 @@
+[
+  {
+    "valutaKojaSeKonvertuje": "USD",
+    "valutaUKojuSeKonvertuje": "EUR",
+    "iznosKojiSeKonvertuje": 100.0,
+    "konvertovaniIznos": 91.514
+  },
+  {
+    "valutaKojaSeKonvertuje": "USD",
+    "valutaUKojuSeKonvertuje": "CHF",
+    "iznosKojiSeKonvertuje": 100.0,
+    "konvertovaniIznos": 92.88250000000001
+  },
+  {
+    "valutaKojaSeKonvertuje": "USD",
+    "valutaUKojuSeKonvertuje": "CAD",
+    "iznosKojiSeKonvertuje": 100.0,
+    "konvertovaniIznos": 124.51350000000001
+  },
+  {
+    "valutaKojaSeKonvertuje": "USD",
+    "valutaUKojuSeKonvertuje": "HRK",
+    "iznosKojiSeKonvertuje": 100.0,
+    "konvertovaniIznos": 690.1399
+  },
+  {
+    "valutaKojaSeKonvertuje": "USD",
+    "valutaUKojuSeKonvertuje": "MKD",
+    "iznosKojiSeKonvertuje": 100.0,
+    "konvertovaniIznos": 5615.8116
+  }
+]
